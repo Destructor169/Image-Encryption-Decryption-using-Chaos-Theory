@@ -10,4 +10,4 @@ Adopt efficient numerical methods to reduce the time of computation.
 Write a computer program to perform the encryption method for a sample image signal.
 Successfully retrieve the original signal by decrypting the encryption using the reverse procedure.
 Determine the computational time and efficiency of the method
-This project was done as a Course Project alongside two fellow students, Archit Dhakar and Aditya Kumar. This was done in the course MA203: Numerical Methods, guided by Professor Dilip Srinivas Sundaram and Professor Aksha Vatwani.
+This project was done as a Course Project alongside two fellow students, Archit Dhakar and Aryan Sahu. This was done in the course MA203: Numerical Methods, guided by Professor Dilip Srinivas Sundaram and Professor Aksha Vatwani.
